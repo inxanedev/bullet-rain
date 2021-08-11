@@ -1,0 +1,30 @@
+{
+    "basic_configuration": {
+        "bullet_amount": 100,
+        "bullet_speed": 4,
+        "player_size": 15,
+        "player_speed": 5,
+        "skip_menu": false,
+        "starting_score": 0
+    },
+    "colors": {
+        "bullet": [255, 0, 0],
+        "player": [0, 255, 0],
+        "score_text": [255, 255, 255],
+        "game_over_text": [255, 0, 0],
+        "start_text": [255, 255, 255]
+    },
+    "language": {
+        "menu": "Press ENTER to play!",
+        "game_over": "GAME OVER",
+        "score_display": "Score: ",
+        "title": "Bullet Rain v0.3"
+    },
+    "advanced_configuration": {
+        "asset_directory": "assets",
+        "bullet_width": 8,
+        "bullet_height": 30,
+        "bullet_fire_frame_bound": 1000,
+        "player_start_height_multiplier": 3.0
+    }
+}
