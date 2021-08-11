@@ -3,6 +3,7 @@ Bullet Rain is a game made in C++ using the SFML library.
 
 # Gameplay
 You can steer the green player using WASD.
+![](gameplay.gif)
 
 # Configuration
 The game's fun comes from the fact that it is very easily and extensively configurable.
